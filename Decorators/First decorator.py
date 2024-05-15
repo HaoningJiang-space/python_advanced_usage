@@ -61,3 +61,6 @@ def a_function_requiring_decoration():
 print("#############################################")
 print(a_function_requiring_decoration.__name__)
 #输出结果是a_function_requiring_decoration，这就是我们想要的结果
+
+
+
